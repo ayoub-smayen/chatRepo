@@ -74,7 +74,7 @@ function App() {
         !username &&
         <section className="App__PopupUsername">
           <h1 className="App_PopupUsername_Title">
-            <span>Simple</span>Chat
+            <span>TeamChat</span>
           </h1>
           <p>Set a new username for you:</p>
           <form
